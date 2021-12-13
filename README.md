@@ -4,7 +4,7 @@ An analysis of the given US census data set was conducted with the use of Python
 
 The project report includes an important section regarding the project learnings achieved by developing it by using both Python and Excel, and the lessons learned to improve teamwork in analytical projects. 
 
-This was a team project developed with Mirna Garza, Elnur Mammadov, Odunayo Odebiyi, Kumar Saurav (@Kmrsaurav1991), Zixiong Zhang.
+This was a team project developed with Mirna Garza (@mirnagarzag), Elnur Mammadov, Odunayo Odebiyi, Kumar Saurav (@Kmrsaurav1991), Zixiong Zhang.
 
 The files included are:
 1. Project report (US census income - Naive Bayes - Report.pdf).
