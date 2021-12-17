@@ -11,4 +11,3 @@ The files included are:
 4. Naives Bayes Excel file (US census income - Naive Bayes.zip).
 
 #### This was a team project developed with Mirna Garza (https://github.com/mirnagarzag), Elnur Mammadov, Odunayo Odebiyi, Kumar Saurav (https://github.com/Kmrsaurav1991), Zixiong Zhang.
-\
