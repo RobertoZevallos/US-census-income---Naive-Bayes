@@ -14,5 +14,5 @@ The files included are:
 - [Mirna Garza](https://github.com/mirnagarzag)
 - Elnur Mammadov
 - Odunayo Odebiyi
-- [Kumar Saurav](https://github.com/Kmrsaurav1991)
+- [Kumar Saurav](https://github.com/ksauravt)
 - Zixiong Zhang.
